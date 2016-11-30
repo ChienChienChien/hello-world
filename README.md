@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+I'm Kane. Now trying to do project for blockchain!
+
